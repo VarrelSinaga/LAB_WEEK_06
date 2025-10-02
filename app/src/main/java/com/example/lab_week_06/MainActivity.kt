@@ -69,6 +69,90 @@ class MainActivity : AppCompatActivity() {
                     "Curious George",
                     "Award winning investigator",
                     "https://cdn2.thecatapi.com/images/bar.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.ExoticShorthair,
+                    "Teresa",
+                    "Adventurous and wild",
+                    "https://cdn2.thecatapi.com/images/8h1.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.ExoticShorthair,
+                    "Wilbert",
+                    "Likes to go on hikes",
+                    "https://cdn2.thecatapi.com/images/14n.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.AmericanCurl,
+                    "Wilma",
+                    "Cuddly assassin",
+                    "https://cdn2.thecatapi.com/images/egv.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.AmericanCurl,
+                    "Curious George",
+                    "Award winning investigator",
+                    "https://cdn2.thecatapi.com/images/bar.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.ExoticShorthair,
+                    "Brishi Brush",
+                    "Adventurous and wild",
+                    "https://cdn2.thecatapi.com/images/8h1.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.ExoticShorthair,
+                    "Filbert",
+                    "Always sleeping",
+                    "https://cdn2.thecatapi.com/images/14n.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.AmericanCurl,
+                    "Filma",
+                    "Always Angry",
+                    "https://cdn2.thecatapi.com/images/egv.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.AmericanCurl,
+                    "Kilan Kalin",
+                    "Award winning investigator",
+                    "https://cdn2.thecatapi.com/images/bar.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.ExoticShorthair,
+                    "Brishi Brush",
+                    "Adventurous and wild",
+                    "https://cdn2.thecatapi.com/images/8h1.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.ExoticShorthair,
+                    "Filbert",
+                    "Always sleeping",
+                    "https://cdn2.thecatapi.com/images/14n.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.AmericanCurl,
+                    "Filma",
+                    "Always Angry",
+                    "https://cdn2.thecatapi.com/images/egv.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.AmericanCurl,
+                    "Kilan Kalin",
+                    "Award winning investigator",
+                    "https://cdn2.thecatapi.com/images/bar.jpg"
                 )
             )
         )

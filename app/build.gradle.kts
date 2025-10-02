@@ -44,6 +44,7 @@ dependencies {
     implementation(libs.androidx.constraintlayout)
     testImplementation(libs.junit)
     implementation("com.github.bumptech.glide:glide:4.14.2")
+    implementation("androidx.cardview:cardview:1.0.0")
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
 }
